@@ -2,3 +2,5 @@
 
 ## Author
 Francisco Ramirez Saavedra
+
+Solving merge conflicts is soooooo hard!
